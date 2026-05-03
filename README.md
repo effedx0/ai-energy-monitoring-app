@@ -2,10 +2,10 @@
 https://drive.google.com/drive/folders/1HnKms5XNGgbwv4frTeNUEWKpcDAq-5Iv?usp=sharing
 
 
-# EnerjiWatch Project Notes
+# EvimCepte Project Notes
 
 ## Amaç
-EnerjiWatch, cihazların güç tüketimini gerçek zamanlı izleyen ve eşik tabanlı anomali tespiti yapan bir arayüzdür.
+EvimCepte, cihazların güç tüketimini gerçek zamanlı izleyen ve eşik tabanlı anomali tespiti yapan bir arayüzdür.
 
 ## Mevcut Durum
 - Veri seti kullanılmıyor.
