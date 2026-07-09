@@ -1,9 +1,9 @@
 
 https://drive.google.com/drive/folders/1HnKms5XNGgbwv4frTeNUEWKpcDAq-5Iv?usp=sharing
-CodeXEnergy HACKHATON PROJESİ
 
-# EvimCepte Project Notes
 
+# EvimCepte Project Notes 
+## CodeXEnergy HACKHATON PROJESİ
 ## Amaç
 EvimCepte, cihazların güç tüketimini gerçek zamanlı izleyen ve eşik tabanlı anomali tespiti yapan bir arayüzdür.
 
